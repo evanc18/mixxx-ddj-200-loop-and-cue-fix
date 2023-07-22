@@ -6,4 +6,5 @@ To use, add the binding to the directory /home/user/.mixxx/controllers/
 
 Bind the mapping under preferences/controllers/DDJ-200 MIDI
 
+
 ![Screenshot from 2023-07-15 14-22-10](https://github.com/evanc18/mixxx-ddj-200-loop-and-cue-fix/assets/53269886/ac5ccebe-152b-41e7-8e16-d776f35e1221)
