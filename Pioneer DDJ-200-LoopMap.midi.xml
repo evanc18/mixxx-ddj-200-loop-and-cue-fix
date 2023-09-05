@@ -2,7 +2,7 @@
 <MixxxControllerPreset mixxxVersion="2.0.0+" schemaVersion="1">
     <info>
         <name>Pioneer DDJ-200-LoopMap</name>
-        <author>Evan Chase</author>
+        <author>Evan B. Chase</author>
         <description>2-deck USB and Bluetooth MIDI controller with support for 4-deck mode. Loop mode for linux</description>
     </info>
     <controller id="DDJ-200">
